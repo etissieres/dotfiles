@@ -1,0 +1,35 @@
+[color]
+    ui = always
+[color "branch"]
+    current = green
+    local = white
+    remote = red
+[color "status"]
+    added = green
+    changed = yellow
+    untracked = red
+[color "diff"]
+    meta = yellow bold
+    commit = green bold
+    frag = magenta bold
+    old = red bold
+    new = green bold
+    whitespace = red reverse
+[color "diff-highlight"]
+    oldNormal = red bold
+    oldHighlight = "red bold 52"
+    newNormal = "green bold"
+    newHighlight = "green bold 22"
+[push]
+    default = current
+[alias]
+    st = status
+    df = diff
+    dfst = diff --stat
+    who = shortlog -nse
+    undo = reset --soft HEAD^
+    tree = log --pretty=oneline --abbrev-commit --graph --decorate
+[core]
+    excludesfile = /Users/etissieres/.gitignore_global
+[include]
+    path = ~/.gitconfig_local
