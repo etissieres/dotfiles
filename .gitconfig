@@ -23,7 +23,7 @@
 [pull]
     rebase = true
 [push]
-    default = current
+    default = simple
 [alias]
     st = status
     df = diff
