@@ -31,7 +31,8 @@
     who = shortlog -nse
     undo = reset --soft HEAD^
     tree = log --pretty=oneline --abbrev-commit --graph --decorate
+    lola = log --pretty=format:'%C(yellow)%h %C(red)%ad %C(blue)%an%C(green)%d %C(reset)%s' --date=short --graph --all
 [core]
-    excludesfile = /Users/etissieres/.gitignore_global
+    excludesfile = ~/.gitignore_global
 [include]
     path = ~/.gitconfig_local
