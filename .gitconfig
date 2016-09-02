@@ -26,6 +26,7 @@
     default = simple
 [alias]
     st = status
+    sst = status -s
     df = diff
     dfst = diff --stat
     who = shortlog -nse
