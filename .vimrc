@@ -48,3 +48,6 @@ set expandtab  " Expand tabs to spaces
 set shiftwidth=4  " The number of spaces for indenting
 set softtabstop=4  " Tab key results in 4 spaces
 set smarttab  " At start of line, <Tab> inserts shiftwidth spaces, <Bs> deletes shiftwidth spaces
+
+" Fix backspace behavior
+set backspace=indent,eol,start
