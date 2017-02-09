@@ -36,6 +36,7 @@
     undo = reset --soft HEAD^
     tree = log --pretty=oneline --abbrev-commit --graph --decorate
     lola = log --pretty=format:'%C(yellow)%h %C(red)%ad %C(blue)%an%C(green)%d %C(reset)%s' --date=short --graph --all
+    forget = update-index --assume-unchanged
 [core]
     excludesfile = ~/.gitignore_global
 [include]
