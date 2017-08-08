@@ -6,7 +6,7 @@ Installation de oh-my-zsh
 
 Mise en place des fichiers de configuration
 
-````bash
+```bash
     git clone https://github.com/robbyrussell/oh-my-zsh.git
     cd dotfiles && cp .git* .vimrc ~/
 ```
