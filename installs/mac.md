@@ -8,6 +8,7 @@
  * Économiseur d'énergie -> configurer
  * Moniteurs -> désactiver "Régler la luminosité automatiquement"
  * Clavier -> configurer "Répétition de touches" et "Pause avant répétition"
+ * Clavier -> Texte -> configurer
  * Trackpad -> activer "Toucher pour cliquer", configurer "Clic" et "Déplacement"
  * Partage -> configurer "Nom de l'ordinateur"
  * Accessibilité -> Souris et Trackpad -> Options du trackpad -> activer et configurer "Activer le glissement"
