@@ -20,7 +20,7 @@
 ### Mise en place des fichiers de configuration
 
 ```bash
-    git clone https://github.com/robbyrussell/oh-my-zsh.git
+    git clone https://github.com/etissieres/dotfiles.git
     cd dotfiles && cp .git* .vimrc ~/
 ```
 
