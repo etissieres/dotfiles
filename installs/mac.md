@@ -1,5 +1,18 @@
 # Installation mac
 
+### Configurations
+
+ * Mission control -> désactiver "Réarranger automatiquement les Spaces"
+ * Bureau et économiseur d'écran -> configurer "Coins actifs"
+ * Sécurité et confidentialité -> configurer "Exiger le mot de passe"
+ * Économiseur d'énergie -> configurer
+ * Moniteurs -> désactiver "Régler la luminosité automatiquement"
+ * Clavier -> configurer "Répétition de touches" et "Pause avant répétition"
+ * Trackpad -> activer "Toucher pour cliquer", configurer "Clic" et "Déplacement"
+ * Partage -> configurer "Nom de l'ordinateur"
+ * Accessibilité -> Souris et Trackpad -> Options du trackpad -> activer et configurer "Activer le glissement"
+ * Utilisateurs et groupes -> Ouvertures -> configurer
+
 ### Installation de oh-my-zsh
 
     $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
