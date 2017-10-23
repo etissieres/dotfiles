@@ -14,6 +14,10 @@
  * Accessibilité -> Souris et Trackpad -> Options du trackpad -> activer et configurer "Activer le glissement"
  * Utilisateurs et groupes -> Ouvertures -> configurer
 
+### Command-line tools
+
+    $ xcode-select --install
+
 ### Installation de oh-my-zsh
 
     $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
