@@ -56,3 +56,4 @@ Installer le [sdk](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-
  * [Skype](https://www.skype.com/fr/download-skype/skype-for-mac/downloading/)
  * [IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac)
  * [Webstorm](https://www.jetbrains.com/webstorm/download/download-thanks.html)
+ * [VisualCode](https://code.visualstudio.com/)
