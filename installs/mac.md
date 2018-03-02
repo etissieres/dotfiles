@@ -35,7 +35,7 @@
 
 ### Installation d'utilitaires
 
-    $ brew install wget htop tmux
+    $ brew install wget htop tmux cloc
 
 ### Java
 
