@@ -57,4 +57,4 @@ Installer le [sdk](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-
  * [IntelliJ](https://www.jetbrains.com/idea/download/download-thanks.html?platform=mac)
  * [Webstorm](https://www.jetbrains.com/webstorm/download/download-thanks.html)
  * [VisualCode](https://code.visualstudio.com/)
- * [App Cleaner & Uninstaller](https://itunes.apple.com/fr/app/app-cleaner-uninstaller)
+ * [App Cleaner & Uninstaller](https://itunes.apple.com/fr/app/app-cleaner-uninstaller/id1013897218?mt=12)
