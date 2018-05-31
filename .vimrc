@@ -48,6 +48,8 @@ set expandtab  " Expand tabs to spaces
 set shiftwidth=4  " The number of spaces for indenting
 set softtabstop=4  " Tab key results in 4 spaces
 set smarttab  " At start of line, <Tab> inserts shiftwidth spaces, <Bs> deletes shiftwidth spaces
+autocmd Filetype yaml setlocal expandtab shiftwidth=2 softtabstop=2
+autocmd Filetype make setlocal noexpandtab shiftwidth=8 softtabstop=0
 
 " Fix backspace behavior
 set backspace=indent,eol,start
