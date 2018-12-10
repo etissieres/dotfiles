@@ -31,3 +31,9 @@ alias pyunset="deactivate"
 ## Scripts
 
 * [Python project init script](../scripts/pyinit)
+
+## Visual studio code
+
+Plugins: 
+
+* [Python](https://github.com/Microsoft/vscode-python)
