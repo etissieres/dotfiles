@@ -14,3 +14,9 @@ cd new_project/
 virtualenv -p python3 venv
 source ./venv/bin/activate
 ```
+
+## Install dependencies
+
+```bash
+pip install package && pip freeze > requirements.txt
+```
