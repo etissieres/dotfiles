@@ -20,3 +20,14 @@ source ./venv/bin/activate
 ```bash
 pip install package && pip freeze > requirements.txt
 ```
+
+## Aliases
+
+```bash
+alias pyset="source ./venv/bin/activate"
+alias pyunset="deactivate"
+```
+
+## Scripts
+
+* [Python project init script](../scripts/pyinit)
