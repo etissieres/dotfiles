@@ -38,3 +38,4 @@ Plugins:
 
 * [Python](https://github.com/Microsoft/vscode-python)
 * [Visual Studio IntelliCode](https://github.com/MicrosoftDocs/intellicode)
+* [Editorconfig](https://github.com/editorconfig/editorconfig-vscode)
