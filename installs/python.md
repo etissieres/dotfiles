@@ -37,3 +37,4 @@ alias pyunset="deactivate"
 Plugins: 
 
 * [Python](https://github.com/Microsoft/vscode-python)
+* [Visual Studio IntelliCode](https://github.com/MicrosoftDocs/intellicode)
