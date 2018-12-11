@@ -1,7 +1,21 @@
-## Installation
+## NVM installation
 
 ```bash
 curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash
+```
+
+To avoid slow terminal startup time:
+
+```bash
+#!/bin/bash
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+alias nvm='unalias nvm node npm && . "$NVM_DIR"/nvm.sh && nvm'
+alias node='unalias nvm node npm && . "$NVM_DIR"/nvm.sh && node'
+alias npm='unalias nvm node npm && . "$NVM_DIR"/nvm.sh && npm'
+
+# Copied from https://www.growingwiththeweb.com/2018/01/slow-nvm-init.html
 ```
 
 ## Typescript
