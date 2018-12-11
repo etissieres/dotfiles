@@ -37,16 +37,6 @@
 
     $ brew install wget htop tmux cloc tree
 
-### Java
-
-Installer le [sdk](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-
-    $ brew install maven
-
-### Node & nvm
-
-    $ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
-
 ### Logiciels
 
  * [iTerm2](https://iterm2.com/downloads/stable/latest)
