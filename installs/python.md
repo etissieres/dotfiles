@@ -4,28 +4,22 @@
 
 ```bash
 python3 -m pip install --upgrade pip
-python3 -m pip install virtualenv autopep8 pylint
+python3 -m pip install pipenv
 ```
 
 ## New project
 
 ```bash
 cd new_project/
-virtualenv -p python3 venv
-source ./venv/bin/activate
+pipenv --three
+pipenv shell
+pipenv install --dev autopep8 pylint
 ```
 
 ## Install dependencies
 
 ```bash
-pip install package && pip freeze > requirements.txt
-```
-
-## Aliases
-
-```bash
-alias pyset="source ./venv/bin/activate"
-alias pyunset="deactivate"
+pipenv install [--dev] package
 ```
 
 ## Scripts
