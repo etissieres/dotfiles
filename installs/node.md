@@ -60,7 +60,8 @@ tslint.json
     "rules": {
         "no-console": false,
         "max-classes-per-file": false,
-        "object-literal-sort-keys": false
+        "object-literal-sort-keys": false,
+        "interface-name": false
     }   
 }
 ```
