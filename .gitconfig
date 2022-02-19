@@ -39,6 +39,7 @@
     forget = update-index --assume-unchanged
     unforget = update-index --no-assume-unchanged
     amend = commit --amend --no-edit
+    pushf = push --force-with-lease
 [core]
     excludesfile = ~/.gitignore_global
     eol = lf
