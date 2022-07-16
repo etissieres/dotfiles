@@ -1,8 +1,12 @@
 {
-    "window.zoomLevel": 0,
-    "explorer.confirmDelete": false,
+    "telemetry.telemetryLevel": "off",
+    "files.autoSave": "onWindowChange",
     "files.insertFinalNewline": true,
-    "files.autoSave": "onFocusChange",
+    "window.zoomLevel": 1,
+    "editor.formatOnSave": true,
     "window.restoreWindows": "none",
-    "editor.formatOnSave": true
+    "workbench.colorTheme": "Default Light+",
+    "[plaintext]": {
+        "editor.wordWrap": "on"
+    }
 }
